@@ -14,6 +14,11 @@ None! That's the great part about the common repo.
 Just the default KiCAD v9 installation will contain everything needed to use
 this repository without depending on external plugins or libraries.
 
+## Helper Scripts
+
+This section is for describing future usage of scripting tools to automate
+testing and modification of reusable blocks.
+
 ## Categories 
 
 These are the current categories covered by the common repo, feel free to 
