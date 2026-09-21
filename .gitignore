@@ -11,3 +11,4 @@ _autosave*
 *.lck
 *.history
 *.prl
+*.kicad_prl
